@@ -1,5 +1,3 @@
-import 'package:strings/strings.dart' as strings;
-
 void main(List<String> arguments) {
   String hello = 'hello world';
   print(hello);
