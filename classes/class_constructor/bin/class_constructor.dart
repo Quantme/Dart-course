@@ -1,4 +1,4 @@
-import 'package:class_constructor/animal.dart';
+import '../lib/animal.dart';
 
 void main(List<String> arguments) {
   Animal cat = Animal('Bob');

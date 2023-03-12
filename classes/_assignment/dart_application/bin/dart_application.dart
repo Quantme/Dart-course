@@ -1,4 +1,4 @@
-import 'package:dart_application/employee.dart';
+import '../lib/employee.dart';
 
 void main(List<String> arguments) {
 /*

@@ -1,4 +1,4 @@
-import 'package:this_keyword/dog.dart';
+import '../lib/dog.dart';
 
 void main(List<String> arguments) {
   Dog bob = Dog(6, 'Bob');
