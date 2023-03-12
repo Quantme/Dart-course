@@ -1,5 +1,5 @@
-import '../lib/classes_basics.dart' as classes_basics;
-import '../lib/my_class.dart';
+import 'package:classes_basics/classes_basics.dart' as classes_basics;
+import 'package:classes_basics/my_class.dart';
 
 void main(List<String> arguments) {
   // Create an instance of the class
